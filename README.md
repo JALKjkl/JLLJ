@@ -2,7 +2,6 @@
   <table boarder=1>
     <tr>
 <th><img src="ss ni lk.jpg" width=500><th>
-  <th> <table boarder=1> 
     <tr>
       <th colspan="2"> Project GT Alert<br> CCR#:2023-04688-A
     </tr>
