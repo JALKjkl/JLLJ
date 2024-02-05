@@ -19,8 +19,9 @@
 <th><b>Category:</b></th>
 <th>Internet of Things (IoT)</th>
 <tr>
-<th><b></b>URL:</th>b></th>
+<th><b></b>URL:</th><b></th>
 <th>James Tuazon, Lorraine Ogbac</th>
 <tr>
   <th><b>Description:</b></th>
-  <th>The project GT Alert.</th></html>
+  <th>The project GT Alert.</th>
+  </html>
